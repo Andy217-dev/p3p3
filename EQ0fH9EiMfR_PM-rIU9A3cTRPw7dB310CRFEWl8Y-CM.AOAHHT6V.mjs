@@ -461,7 +461,7 @@ var Dr = {
                       }),
                     }),
                     r(u, {
-                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9c572dcd9e1f328b05bd8efe9f2891b5fd7c2e2f",
+                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0x0000000000000000000",
                       children: r(o.a, {
                         className: "framer-yg2wuo framer-qv9m9v",
                         "data-border": !0,
